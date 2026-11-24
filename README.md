@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Murilo 👋
 
-<!--
-**MuriloACbtc/muriloACbtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor júnior e estudante de computação, interessado em back-end e Bitcoin.
 
-Here are some ideas to get you started:
+### 💼 Experiência
+**Estagiário de Desenvolvimento — Dotter** (2025 – 2026)
+- +1.200 contribuições em repositórios privados da empresa
+- Conta usada no estágio: [@EstagioDotter](https://github.com/EstagioDotter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos
+- **[Vindix](https://github.com/pifaculdade2025/vindix)**: sistema de gestão para clínicas multidisciplinares (Node.js, Express, Firebird), com agenda, convênios, permissões e LGPD.
+- **Site técnico do Vindix**: documentação de autômatos e complexidade aplicados ao projeto *(link do GitHub Pages aqui)*
+
+### 🛠️ Tecnologias
+JavaScript · Node.js · Python · C# · SQL · Git
+
+### 📫 Contato
+[LinkedIn](https://linkedin.com/in/muriloalvescipriano)
