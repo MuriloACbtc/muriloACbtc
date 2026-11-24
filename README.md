@@ -9,7 +9,7 @@ Desenvolvedor júnior e estudante de computação, interessado em back-end e Bit
 
 ### 🚀 Projetos
 - **[Vindix](https://github.com/pifaculdade2025/vindix)**: sistema de gestão para clínicas multidisciplinares (Node.js, Express, Firebird), com agenda, convênios, permissões e LGPD.
-- **Site técnico do Vindix**: documentação de autômatos e complexidade aplicados ao projeto *(link do GitHub Pages aqui)*
+- **Site técnico do Vindix**: documentação de autômatos e complexidade aplicados ao projeto *https://muriloacbtc.github.io/vindix-adc2/*
 
 ### 🛠️ Tecnologias
 JavaScript · Node.js · Python · C# · SQL · Git
